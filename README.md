@@ -19,7 +19,7 @@
 **Μέθοδος διδασκαλίας:** Διάλεξη, εργασία.
 
 **Βαθμολογία:** 
-+ 20% [2 ασκήσεις προγραμματισμού](https://courses-ionio.github.io/projects/remix) 
++ 20% [2 ασκήσεις προγραμματισμού](https://pibook.epidro.me/remix/)     [οδηγίες](https://courses-ionio.github.io/projects/remix)  
 + 20% [άσκηση βιογραφικού](https://courses-ionio.github.io/projects/cv/)
 + 20% [Συμμετοχικό εκπαιδευτικό υλικό](https://courses-ionio.github.io/projects/social)* 
 + 40%(--80%) [εργασία ανάπτυξης](https://courses-ionio.github.io/projects/dev/)*
